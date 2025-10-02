@@ -1,4 +1,11 @@
-## Hi there 👋
+👨‍💻 Software Engineer | 🎨 Sketching & Painting Enthusiast | 🧘‍♂️ Curious Mind  
+
+Hi, I’m Biswadarshi — a software engineer passionate about building impactful solutions through clean and efficient code.  
+Skilled in software development, I enjoy solving complex problems, exploring system design, and contributing to open-source projects.  
+
+Beyond tech, I love sketching, painting, and engaging in deep philosophical conversations that inspire creativity and new perspectives.  
+
+🌱 Always learning, always creating. 
 
 <!--
 **biswa365/biswa365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
